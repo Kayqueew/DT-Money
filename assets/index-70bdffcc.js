@@ -347,7 +347,7 @@ Error generating stack: `+i.message+`
     }
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     button {
       font-size: 0;
       padding: 0 0 0 1rem;
