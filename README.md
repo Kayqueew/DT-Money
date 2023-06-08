@@ -8,6 +8,8 @@
 
 ## 💻 Projeto
 
+https://github.com/Kayqueew/DT-Money/assets/92122337/c9bf313f-8dae-48d9-a065-d3c11f1d49e3
+
 
 #### É uma aplicação para o gerenciamento financeiro, sendo possivel administrar e organizar as finanças de um usuário, podemos registrar entradas e saida e conferir o balanço.
 
