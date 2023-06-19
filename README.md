@@ -27,7 +27,7 @@ https://github.com/Kayqueew/DT-Money/assets/92122337/c9bf313f-8dae-48d9-a065-d3c
 
 - <strong> useCallback: </strong> Permitindo que você memorize uma função e a reutilize entre renderizações, evitando renderizações desnecessárias.  
 - <strong>use-context-selector: </strong> Oferece uma maneira de selecionar apenas as partes necessárias de um contexto (context) em um componente React, evitando renderizações desnecessárias.
-- <strong>memo: </strong> O memo pode envolver um componente funcional para que ele seja memorizado e renderizado novamente somente quando suas propriedades relevantes forem alteradas
+- <strong>memo: </strong> O memo pode envolver um componente funcional para que ele seja memorizado e renderizado novamente somente quando suas propriedades relevantes forem alteradas.
 
 
 </br>
